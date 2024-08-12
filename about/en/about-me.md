@@ -4,6 +4,6 @@ My background includes **designing and implementing systems** in the insurance s
 
 I have had the opportunity to **lead projects** in designing and establishing system components, **ensuring code quality**, and promoting **agile methodologies**. I have managed projects from their conception to implementation, focusing on **optimizing processes** and **configuring technological infrastructures** to enhance efficiency. I have also developed **custom solutions** to meet the specific needs of organizations.
 
-My **passion for research** drives me to read books from **O'Reilly** to stay updated with the latest trends and technologies in the software field. In my free time, I enjoy **music** and **cooking**, and I like to prepare meals for my family, which helps me maintain a healthy balance and find inspiration for my work.
+My **passion for research** drives me to read books to stay updated with the latest trends and technologies in the software field. In my free time, I enjoy **music** and **cooking**, and I like to prepare meals for my family, which helps me maintain a healthy balance and find inspiration for my work.
 
 This is a glimpse of my journey in software development and architecture, and how my interests and passions influence both my professional and personal approach.
